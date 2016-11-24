@@ -1,0 +1,12 @@
+{
+  "name": "big-webhook-server",
+  "version": "0.1.0",
+  "description": "A webhhok server that listen webhook events, then run corresponding job.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:henryhuang/big-webhook-server.git",
+    "type": "git"
+  },
+  "author": "henryhuang <huangyijie1989@gmail.com>",
+  "license": "MIT"
+}
